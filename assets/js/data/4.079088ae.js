@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{71:function(o){o.exports={data:{wordPressCategory:{title:"Digital Ads"}}}}}]);

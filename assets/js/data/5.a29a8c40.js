@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{72:function(o){o.exports={data:{wordPressCategory:{title:"Uncategorized"}}}}}]);

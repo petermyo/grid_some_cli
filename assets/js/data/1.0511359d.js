@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{68:function(l){l.exports={data:{wordPressPost:{title:"Test",fields:{content:'\n<div class="wp-block-columns has-2-columns">\n<div class="wp-block-column">\n<ul><li>Test</li><li>Test</li><li>Tes</li><li>Testttt</li><li>Test </li><li>Test</li></ul>\n</div>\n\n\n\n<div class="wp-block-column"></div>\n</div>\n'}}}}}}]);

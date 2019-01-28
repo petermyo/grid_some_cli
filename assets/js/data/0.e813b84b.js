@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{67:function(t){t.exports={data:{wordPressPost:{title:"Hello world!",fields:{content:"\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n"}}}}}}]);
